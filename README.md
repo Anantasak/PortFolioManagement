@@ -30,3 +30,4 @@ Anyway on Test data 2 years (2020-2021) we can achievement at score below
  %Profit_per_trade = 16.21%                     
  %Loss_per_trade = -4.06% 
 
+Cite and reference for data train & test from DeepInvest
